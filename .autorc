@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Eapalmoms",
+  "repo": "container-2z18lxs",
+  "name": "Eapalmoms",
+  "email": "eapalmom@gmail.com",
+}
